@@ -2,7 +2,7 @@
 
 ## 1. Thông tin cá nhân và nhóm
 
-- **MHV người nộp:** 2A202602557
+- **MHV người nộp:** 2A202602581
 - **Họ tên người nộp:** Trần Thị Thu Trang
 - **Tên nhóm:** NaCl
 - **Case đã chọn:** Case B — AI Notes: Personal Learning Notes
